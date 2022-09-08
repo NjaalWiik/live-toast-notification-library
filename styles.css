@@ -28,7 +28,7 @@
   position: absolute;
   height: 2px;
   width: calc(100% * var(--progress));
-  background-color: #3e66d5;
+  background-color: #d0d5dd;
   bottom: 0;
   left: 0;
   right: 0;
